@@ -1,7 +1,14 @@
 '''
-https://replit.com/talk/ask/Pytesseract-Auto-Shell-Install-Package-Issue/140049
 
+Sources:
+https://replit.com/talk/ask/Pytesseract-Auto-Shell-Install-Package-Issue/140049
 https://replit.com/@Intenzi/ClientRequested
+
+Things to Note:
+Only png files can be converted to text
+so there is a jpg to png converter function added
+
+
 '''
 import os
 def pip_in_tess():
